@@ -7,7 +7,6 @@
 	<link rel="stylesheet" href="/style.css" type="text/css" />
 </head>
 <body>
-<h1>GIT LESSON</h1>
-<h2>New change file index.php</h2>
+<h1>GIT LESSON 3</h1>
 </body>
 </html>
