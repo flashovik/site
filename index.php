@@ -7,7 +7,6 @@
 	<link rel="stylesheet" href="/style.css" type="text/css" />
 </head>
 <body>
-<h1>GIT LESSON 3</h1>
-<h2>GIT LESSON 3 test</h2>
+<p>ololo</p>
 </body>
 </html>
